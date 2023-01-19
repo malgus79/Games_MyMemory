@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyMemory</string>
+    <string name="boton_init_play">Play</string>
+    <string name="boton_init_quit">Quit</string>
+    <string name="boton_juego_reinit">Reinit</string>
+    <string name="boton_juego_quit">Quit</string>
+</resources>
